@@ -13,10 +13,6 @@ const AboutUs = () => (
         <p className="p__opensans">TasteHarbor is more than just an online restaurant; it's a celebration of flavors, a fusion of traditional and contemporary culinary artistry. Our journey began with the dream of crafting a dining experience that transcends the ordinary, and today, TasteHarbor stands as a testament to that vision. Led by our dedicated team, we curate a menu that takes you on a gastronomic journey, offering a diverse array of dishes inspired by global cuisines. With a commitment to quality, sustainability, and your satisfaction, TasteHarbor invites you to savor every bite, relish each moment, and join us in creating a tapestry of culinary memories. Thank you for being part of our flavorful story. Cheers to a journey filled with taste and harmony!</p>
       </div>
 
-      <div className="app__aboutus-content_knife flex__center">
-        <img src={images.knife} alt="about_knife" />
-      </div>
-
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
