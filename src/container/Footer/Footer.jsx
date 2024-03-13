@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { FiFacebook, FiTwitter, FiInstagram } from 'react-icons/fi';
+import { FiFacebook, FiTwitter, FiInstagram, FiMapPin } from 'react-icons/fi';
 
 import { images } from '../../constants';
 import './Footer.css';
@@ -11,7 +11,7 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">P.O Box 43, Oyugis, Kenya</p>
+        <p className="p__opensans"><FiMapPin />&nbsp;Oyugis Town, Kenya</p>
         <p className="p__opensans">+254742299486</p>
       </div>
 
