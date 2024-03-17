@@ -1,9 +1,12 @@
+// Importing necessary dependencies, components, and images
 import React from 'react';
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 
+// Functional component for FindUs
 const FindUs = () => (
+  // Main container for FindUs section with specific styling and ID
   <div className="app__bg app__wrapper section__padding" id="contact">
     <div className="app__wrapper_info">
       <SubHeading title="Contact" />

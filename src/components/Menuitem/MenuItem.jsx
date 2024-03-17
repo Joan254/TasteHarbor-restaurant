@@ -1,8 +1,11 @@
+// Importing React library and styles
 import React from 'react';
 
 import './MenuItem.css';
 
+// Functional component for MenuItem
 const MenuItem = ({ title, price, tags }) => (
+  // Main container for the MenuItem component with specific styling
   <div className="app__menuitem">
     <div className="app__menuitem-head">
       <div className="app__menuitem-name">

@@ -1,5 +1,7 @@
+// Importing images from the images module
 import images from './images';
 
+// Array of appetizers with their details
 const appetizers = [
   {
     title: 'Caprese Salad',
@@ -28,6 +30,7 @@ const appetizers = [
   },
 ];
 
+// Array of main courses with their details
 const mainCourses = [
   {
     title: 'Grilled Salmon',
@@ -56,6 +59,7 @@ const mainCourses = [
   },
 ];
 
+// Array of desserts with their details
 const desserts = [
   {
     title: 'Chocolate Fondue',
@@ -84,6 +88,7 @@ const desserts = [
   },
 ];
 
+// Array of awards with their details, including image URLs from the imported images module
 const awards = [
   {
     imgUrl: images.award02,
@@ -107,6 +112,7 @@ const awards = [
   },
 ];
 
+// Object containing all the arrays of menu items and awards
 const data = { appetizers, mainCourses, desserts, awards };
 
 export default data;

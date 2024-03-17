@@ -1,3 +1,4 @@
+// Importing image assets using relative paths
 import bg from '../assets/bg.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -15,6 +16,7 @@ import award05 from '../assets/award05.png';
 import awards from '../assets/awards.jpg';
 import tasteharbor from '../assets/tasteharbor.png';
 
+// Object containing all the image paths
 const images = {
   bg,
   gallery01,

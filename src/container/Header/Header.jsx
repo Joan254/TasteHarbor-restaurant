@@ -1,10 +1,13 @@
+// Importing necessary dependencies, components, images, and styles
 import React from 'react';
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Header.css';
 
+// Functional component for Header
 const Header = () => (
+  // Main container for Header section with specific styling and ID
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
       <SubHeading title="Welcome to TasteHarbor" />
