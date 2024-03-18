@@ -1,6 +1,40 @@
-# Getting Started with Create React App
+# TateHarbor Restaurant Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TasteHarbor is a fictional restaurant website project aimed at showcasing the restaurant's menu, services, and facilitating online inquiries or reservations. This project serves as a demonstration of frontend web development skills, focusing on creating an intuitive and visually appealing user interface for a restaurant website.
+
+Deployed Site: [TasteHarbor Restaurant Website](https://tasteharbor-restaurant.netlify.app)
+Author's LinkedIn: [Joan Otieno](https://www.linkedin.com/in/joan-achieng-869337190/)
+
+## Installation
+
+To run this project locally, follow these steps:
+* Clone the repository: `git clone https://github.com/Joan254/tasteharbor.git`
+* Navigate to the project directory: `cd tasteharbor`
+* Install dependencies: `npm install`
+* Start the development server: `npm start`
+* Open your browser and visit `http://localhost:3000`
+
+## Usage
+
+* Browse the menu to explore various offerings.
+* Contact the retaurant for inquiries or reservations.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+* Fork the repository.
+* Create a new branch for your feature: `git checkout -b feature-name`
+* Make your changes and commit them: `git commit -m 'Add some feature'`
+* Push to the branch: `git push origin feature-name`
+* Submit a pull request.
+
+## Screenshot
+
+![TasteHarbor Restaurant Website](C:\Users\joano\Pictures\Screenshots/tasteharbor-screenshot.png)
+
+## Licensing
+
+Public Domain. No copy write protection.
 
 ## Available Scripts
 
