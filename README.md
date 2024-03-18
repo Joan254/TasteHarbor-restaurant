@@ -30,7 +30,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Screenshot
 
-![TasteHarbor Restaurant Website](C:\Users\joano\Pictures\Screenshots/tasteharbor-screenshot.png)
+![alt text](tasteharbor-screenshot.png)
 
 ## Licensing
 
