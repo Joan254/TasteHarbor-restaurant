@@ -4,6 +4,8 @@ TasteHarbor is a fictional restaurant website project aimed at showcasing the re
 
 Deployed Site: [TasteHarbor Restaurant Website](https://tasteharbor-restaurant.netlify.app)
 
+Final Project Blog Article: [Medium.com](https://medium.com/@joanotieno1998/tasteharbor-restaurant-website-6c6738ee122a)
+
 Author's LinkedIn: [Joan Otieno](https://www.linkedin.com/in/joan-achieng-869337190/)
 
 ## Inspiration and Technical Challenge
